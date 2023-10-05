@@ -1,0 +1,13 @@
+total 80
+-rw-rw-r-- 1 mzepeda mzepeda   595 Oct  3 22:33 dq2.1.c
+-rwxrwxr-x 1 mzepeda mzepeda 16216 Oct  3 22:36 dq2.1.out
+-rw-rw-r-- 1 mzepeda mzepeda   626 Oct  4 09:55 dq2.2.c
+-rwxrwxr-x 1 mzepeda mzepeda 16232 Oct  4 08:15 dq2.2.out
+-rw-rw-r-- 1 mzepeda mzepeda   364 Oct  4 07:32 dq2.c
+-rwxrwxr-x 1 mzepeda mzepeda 16176 Oct  4 07:32 dq2.out
+-rw-rw-r-- 1 mzepeda mzepeda     0 Oct  4 13:45 myfiles.txt
+-rwxrwxrwx 1 mzepeda mzepeda    50 Oct  4 11:22 test1.sh
+-rwxrwxrwx 1 mzepeda mzepeda   228 Oct  3 14:03 test2.sh
+-rwxrwxrwx 1 mzepeda mzepeda    62 Oct  4 13:24 test3.sh
+-rwxrwxrwx 1 mzepeda mzepeda   173 Oct  4 13:27 test4.sh
+-rwxrwxrwx 1 mzepeda mzepeda    29 Oct  4 13:37 test5.sh
